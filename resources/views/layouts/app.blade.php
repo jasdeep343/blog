@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Abstract</title>
+    <title>Codehelper</title>
     <meta name="description" content="">  
 	<meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -14,7 +14,7 @@
 </head>
 
 <body id="top">
-<header class="short-header">   
+<!--header class="short-header">   
     <div class="row header-content">
         <div class="logo">
             <a href="index.html">Author</a>
@@ -48,7 +48,7 @@
             </ul>
         </nav>  
     </div>     
-</header>
+</header-->
             @yield('content')
 
 
@@ -57,8 +57,7 @@
         <div class="row">
             <div class="col-twelve">
                 <div class="copyright">
-                    <span>© Copyright Abstract 2016</span> 
-                    <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
+                    <span>© Copyright Codehelper 2018</span> 
                 </div>
                 <div id="go-top">
                     <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon icon-arrow-up"></i></a>

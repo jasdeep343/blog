@@ -1,0 +1,9 @@
+composer create-project laravel/laravel projectname
+
+php artisan list
+php artisan help migrate
+php artisan make:controller ControllerName --resource
+php artisan make:model ModelName -make
+php artisan make:migration addto_db -table==todos
+php artisan migrate
+php artisan tinker

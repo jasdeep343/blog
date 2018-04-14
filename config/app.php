@@ -176,6 +176,8 @@ return [
         // blog\Providers\BroadcastServiceProvider::class,
         blog\Providers\EventServiceProvider::class,
         blog\Providers\RouteServiceProvider::class,
+        Way\Generators\GeneratorsServiceProvider::class,
+        Xethron\MigrationsGenerator\MigrationsGeneratorServiceProvider::class,
 
     ],
 
